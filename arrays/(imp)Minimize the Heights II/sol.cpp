@@ -4,7 +4,7 @@ logic given in the enclosed image
 //man this is freaking important
 vvvvvv important
 best approach: https://www.youtube.com/watch?v=Av7vSnPSCtw
-
+yeaaah
 */
 #include <bits/stdc++.h>
 using namespace std;
